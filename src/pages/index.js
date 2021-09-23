@@ -26,7 +26,7 @@ class Index extends React.Component {
   render() {
     return (
       <Layout>
-        <Helmet title="Gatsby Starter - Stellar" />
+        <Helmet title="With Data - Your new Companion" />
 
         <Header />
 
@@ -41,7 +41,7 @@ class Index extends React.Component {
             <div className="spotlight">
               <div className="content">
                 <header className="major">
-                  <h2>Ipsum sed adipiscing</h2>
+                  <h2>If You Can't Beat data, Join data.</h2>
                 </header>
                 <p>
                   Sed lorem ipsum dolor sit amet nullam consequat feugiat
